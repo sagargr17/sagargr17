@@ -1,4 +1,4 @@
-# [Your Full Name]
+Sagar Gahatraj
 Master's Degree Student · Former Full Stack Developer
 
 <h3 align="center">Exploring the Convergence of Deep Learning, Mathematical Theory, and Low-Level Execution</h3>
