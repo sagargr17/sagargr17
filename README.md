@@ -5,7 +5,7 @@
 <h3 align="center">Exploring the Convergence of Deep Learning, Mathematical Theory, and Low-Level Execution</h3>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/sagar-gahatraj-038451378/?isSelfProfile=true&trk=public_profile-settings_edit-profile-content"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <!-- <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a> -->
   <a href="mailto:reachmesagar65@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
