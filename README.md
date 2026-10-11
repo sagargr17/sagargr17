@@ -27,7 +27,7 @@ I trace modern deep learning architectures back to the mathematics, physics, and
 
 ### 🌍 Philosophy & Impact
 
-Technology shouldn't only serve those who already have the most. I believe real innovation lifts people out of poverty, reduces laborious work, and fits naturally with local culture and community values. The tools I want to build are meant to reduce human hardship where it is felt most.
+True innovation isn't just for the privileged; it must belong to everyone.
 
 ---
 
