@@ -18,7 +18,7 @@ class IntellectProfile:
     past_experience = "Full Stack Developer"
     core_philosophy = "Technology should ease hardship and uplift communities while respecting local culture"
     ultimate_goal   = "Accessible world models and vision-language systems that save people hours of manual labor"
-    obsession       = "How neural operations compile down to low-level hardware execution"
+    obsession       = "How neural operations compile down to low-level execution"
 ```
 
 I'm a Master's student and former Full Stack Developer working at the bridge between production-grade software and **Artificial Intelligence**. I'm not satisfied treating AI as a black box. I want to know exactly how networks and architecture work under the hood.
