@@ -2,7 +2,7 @@
 
 **Master's Student · Former Full Stack Developer**
 
-<h3 align="center">Exploring the Convergence of Deep Learning, Mathematical Theory, and Low-Level Execution</h3>
+<h3 align="center">A self-questioning guy trying to make computers understand the world as humans do.</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sagar-gahatraj-038451378/?isSelfProfile=true&trk=public_profile-settings_edit-profile-content"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -23,7 +23,7 @@ class IntellectProfile:
 
 I'm a Master's student and former Full Stack Developer working at the bridge between production-grade software and **Artificial Intelligence**. I'm not satisfied treating AI as a black box. I want to know exactly how networks and architecture work under the hood.
 
-I trace modern deep learning architectures back to the mathematics, physics, and foundational papers they came from, and then follow them forward down to how they actually execute on hardware. My goal is to build accessible **world models** and **vision-language technologies** that automate grueling manual work and simplify complex tasks for people who need it most.
+I trace modern deep learning architectures back to the mathematics, and foundational papers they came from, and then follow them forward down to imporvements. My goal is to build accessible **world models** and **vision-language technologies** that automate grueling manual work and simplify complex tasks for people who need it most.
 
 ### 🌍 Philosophy & Impact
 
